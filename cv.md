@@ -8,3 +8,21 @@
 > &nbsp;
 
 ---
+## ABOUT ME
+
+Male, 37 years old, born June 15, 1984
+&nbsp;  
+&nbsp;
+***
+
+## CONTACTS
+
+
+e-mail: <sasha.petrov@tut.by>  
+skype: pitbrest  
+discord: pitbrest(@pitbrest)
+[github](https://github.com/pitbrest)  
+Location: [Brest, Belarus](https://goo.gl/maps/ptAL4TB4n6LXx82E7)
+&nbsp;  
+&nbsp;
+***
