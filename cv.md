@@ -1,6 +1,6 @@
 # PIATROU ALIAKSANDR
 
-![It's me](https://hhcdn.ru/photo/639444954.jpeg?t=1640117727&h=NjRVhH0ZmRTPfPt2Dsuydg "Aliaksandr Piatrou")
+![It's me](https://sun9-80.userapi.com/impg/iIwRubG-GClVjk_seiMnUN0Yfy6TayaS3QwqOA/7vq3k362Wc0.jpg?size=2560x1707&quality=96&sign=0f5f9bb3d6867fa338b7fab133c0a9c6&type=album)
 &nbsp;
 
 > **_Make it on your own, and no one can take it away from you_** > &nbsp;  
