@@ -4,7 +4,7 @@
 &nbsp;
 
 > **_Make it on your own, and no one can take it away from you_** > &nbsp;  
-> &nbsp;
+&nbsp;
 
 ---
 
