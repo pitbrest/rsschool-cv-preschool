@@ -1,6 +1,6 @@
 # PIATROU ALIAKSANDR
 
-![It's me](https://sun9-84.userapi.com/impg/hUVANGPIz2xRBZTnWS_DWJhlAZQ8Uhx0z9WuDw/dQP08Us0XSs.jpg?size=300x300&quality=95&sign=31b5f2b294f057f105368a5d5df0f2b1&type=album)
+![It's me](logo.jpg)
 &nbsp;
 
 > **_Make it on your own, and no one can take it away from you_** > &nbsp;  
@@ -21,7 +21,7 @@ Male, 37 years old, born June 15, 1984
 e-mail: <sasha.petrov@tut.by>  
 skype: pitbrest  
 discord: pitbrest(@pitbrest)  
-[github](https://github.com/pitbrest)  
+[github](/pitbrest)  
 Location: [Brest, Belarus](https://goo.gl/maps/ptAL4TB4n6LXx82E7)
 &nbsp;  
 &nbsp;
