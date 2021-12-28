@@ -1,6 +1,6 @@
 # PIATROU ALIAKSANDR
 
-![It's me](https://sun9-80.userapi.com/impg/iIwRubG-GClVjk_seiMnUN0Yfy6TayaS3QwqOA/7vq3k362Wc0.jpg?size=2560x1707&quality=96&sign=0f5f9bb3d6867fa338b7fab133c0a9c6&type=album)
+![It's me](https://sun9-84.userapi.com/impg/hUVANGPIz2xRBZTnWS_DWJhlAZQ8Uhx0z9WuDw/dQP08Us0XSs.jpg?size=300x300&quality=95&sign=31b5f2b294f057f105368a5d5df0f2b1&type=album)
 &nbsp;
 
 > **_Make it on your own, and no one can take it away from you_** > &nbsp;  
