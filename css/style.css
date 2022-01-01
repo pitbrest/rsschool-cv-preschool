@@ -69,7 +69,7 @@ main {
 /***** Main header *****/
 
 .content-header {
-	padding: 10px 20px 20px;
+	padding: 15px 20px 20px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -129,7 +129,7 @@ main {
 .content__body {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: flex-start;
+	justify-content: flex-start;	
 }
 @media (max-width: 1333px) {
 	.content__body {
@@ -137,8 +137,8 @@ main {
 	}
 }
 .content__item {
-	flex: 0 1 47%;
-	margin: 0 20px;
+	flex: 0 1 45%;
+	margin: 10px 30px 0;
 	padding: 10px 0;
 	border-bottom: 1px solid #785f15;
 }
@@ -156,14 +156,15 @@ main {
 .contacts__item img {
 	margin-right: 10px;
 }
-.summary {
-	line-height: 25px;
-}
 .content__item p:not(:last-child) {
 	margin-bottom: 7px;
 }
 .content p {
-	line-height: 20px;
+	line-height: 25px;
+}
+.projects li {
+	margin: 10px 0 0 20px;	
+	list-style: disc;
 }
 
 /***** Footer *****/
@@ -178,3 +179,4 @@ main {
 	justify-content: space-between;
 	align-items: center;
 }
+
